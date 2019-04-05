@@ -1,6 +1,6 @@
 {
   "name": "drasnerd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An awesome package for the awesome Sarah Drasner",
   "main": "index.js",
   "scripts": {
