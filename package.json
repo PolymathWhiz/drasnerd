@@ -1,0 +1,23 @@
+{
+  "name": "drasnerd",
+  "version": "1.0.0",
+  "description": "An awesome package for the awesome Sarah Drasner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolymathWhiz/drasnerd.git"
+  },
+  "keywords": [
+    "drasner",
+    "sarah"
+  ],
+  "author": "Miracle Anyanwu (PolymathWhiz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PolymathWhiz/drasnerd/issues"
+  },
+  "homepage": "https://github.com/PolymathWhiz/drasnerd#readme"
+}
